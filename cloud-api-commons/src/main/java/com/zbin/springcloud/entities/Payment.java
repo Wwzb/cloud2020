@@ -1,4 +1,4 @@
-package com.zbin.springcloud.entity;
+package com.zbin.springcloud.entities;
 
 import java.io.Serializable;
 import lombok.AllArgsConstructor;

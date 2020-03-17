@@ -8,7 +8,7 @@
     values (#{serial})
   </insert>
 
-  <select id="getById" resultType="com.zbin.springcloud.entity.Payment">
+  <select id="getById" resultType="com.zbin.springcloud.entities.Payment">
     select `id`,`serial`
     from payment
     where id = #{id}

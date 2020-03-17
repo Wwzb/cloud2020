@@ -1,6 +1,6 @@
 package com.zbin.springcloud.service;
 
-import com.zbin.springcloud.entity.Payment;
+import com.zbin.springcloud.entities.Payment;
 import org.apache.ibatis.annotations.Param;
 
 /**
